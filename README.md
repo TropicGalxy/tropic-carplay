@@ -4,7 +4,7 @@ You must be in a car to play music
 
 The music plays from the car to ensure that all players on the radius can hear it but the maximum radius isnt too far to be clear of trolls
 
-thanks to wasabi boombox for the inspiration!
+thanks to wasabi boombox for the concept!
 
 enjoy!
 
