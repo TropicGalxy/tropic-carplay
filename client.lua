@@ -75,7 +75,7 @@ RegisterNetEvent('tropic-carplay:startMusic', function(vehicleNetId, url, volume
             while isMusicPlaying do
                 local vehicleCoords = GetEntityCoords(vehicle)
                 exports.xsound:Position('car_music', vehicleCoords)
-                Wait(100) -- Update every 100ms
+                Wait(100)
             end
         end)
 
