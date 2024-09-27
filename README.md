@@ -16,7 +16,7 @@ enjoy!
 
 # Extra Stuff
 
-THIS IS NOT TESTES ON ESX HOWEVER IT SHOULD BE STANDALONE!!
+THIS IS NOT TESTED ON ESX HOWEVER IT SHOULD BE STANDALONE!!
 
 let me know if you encounter any bugs or if you want to clean up some code
 
